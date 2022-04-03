@@ -1,1 +1,1 @@
-const wordlist = () => ["ÉTICA","INTEGRIDADE"];
+const wordlist = () => ["ETICA","INTEGRIDADE"];
