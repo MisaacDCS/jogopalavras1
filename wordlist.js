@@ -1,0 +1,1 @@
+const wordlist = () => ["ÉTICA","INTEGRIDADE"];
